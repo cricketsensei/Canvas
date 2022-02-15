@@ -1,0 +1,20 @@
+.background{
+    background-image: url("background.png");
+    background-position: center;
+    background-size: 900px;
+}
+
+#header{
+    color: red;
+    font-size: 40px;
+}
+
+#mycanvas{
+    border: ridge 10px black;
+    background-color: white;
+}
+
+#clear{
+    border: solid 4px black;
+    border-radius: 25px;
+}
